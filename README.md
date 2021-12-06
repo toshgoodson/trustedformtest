@@ -26,6 +26,6 @@ Running in dev mode will *not* reproduce the problem.
 ## With TrustedForm
 
 - Navigate to http://localhost:3000/?tf=1
-- The page should say "TrustedForm included: true"
+- Make sure trusted form has finished loading
 - Click the link to page two
 - The link on page two will no longer be correctly styled with a blue background
